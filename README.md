@@ -2,7 +2,7 @@
 
 ## Ye olde table
 
-|Colors|Pins|Mount|Mode|Width (mm)|Length|Height|PWM (kHz)|Current (mA)|Spec vmin|Spec vmax|Tested vmin|Have Used|Notes|Provider|Datasheet|?|
+|Part|Colors|Pins|Mount|Mode|Width (mm)|Length|Height|PWM (kHz)|Current (mA)|Spec vmin|Spec vmax|Tested vmin|Have Used|Notes|Provider|Datasheet|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |WS2812B-5050|RGB|4|Top|Async, 24-bit|5|5|1.57|0.4||3.5|5.3|3|CNLohr||LCSC|[Link](https://github.com/cnlohr/addressable_leds/blob/master/WS2812B/WS2812B.pdf)|
 |WS2813B-B-5050|RGB|6|Top|Async, 24-bit|5|5|1.65|2|50|3.5|5.3|3|CNLohr||LCSC|[Link](https://github.com/cnlohr/addressable_leds/blob/master/WS2813B-B/Worldsemi-WS2813B-B_C114592.pdf)|
