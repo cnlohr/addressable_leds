@@ -13,7 +13,7 @@
 |SK6812-2020|RGB|4|Top|Async,24-bit|2|2|.6|1.2||||||||[Link](https://github.com/cnlohr/addressable_leds/blob/master/SK6812-2020/SK6812-2020%20LED%20Datasheet.pdf)|
 |APA102-1515|RGB|6|Top|Sync, 32-bit|1.5|1.5|0.9|||4.5|5.5|||Has Global|Aliexpress|[Link](https://github.com/cnlohr/addressable_leds/blob/master/APA102-1515/apa102-1515.pdf)|
 |APA104-1515|RGB|4|Top|Async, 24-bit|1.5|1.5|0.75||15|3.8|5.5|||||[Link](https://github.com/cnlohr/addressable_leds/blob/master/APA102-1515/apa102-1515.pdf)|
-|HD107S-1515|RGB|6|Top|Async, 32-bit|2|2||27|50||5.3|||||Based on HD107S-5050|
+|HD107S-1515|RGB|6|Top|Sync, 32-bit|2|2||27|50||5.3|||||Based on HD107S-5050|
 
 ## Additional Notes
 
